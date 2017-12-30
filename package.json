@@ -22,11 +22,11 @@
     "ejs": "^2.5.7",
     "express": "^4.15.5",
     "express-ejs-layouts": "^2.3.1",
-    "hashids": "^1.1.1",
+    "hashids": "^1.1.4",
     "morgan": "^1.7.0",
     "pg": "^6.4.1",
     "pg-hstore": "^2.3.2",
     "request": "^2.82.0",
-    "sequelize": "^3.30.4"
+    "sequelize": "^3.31.1"
   }
 }
